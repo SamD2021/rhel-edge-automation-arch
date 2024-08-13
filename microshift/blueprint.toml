@@ -73,5 +73,5 @@ enabled = ["crio", "microshift"]
 [[customizations.user]]
 name = "redhat"
 description = "Initial User"
-password = "$6$6ar/G7QAAOC/Z810$cuYU.TowiTQDSoGdv23oDSp54WgsPjxB4HP8oxIrl3dMDWcLL7/JiQgmPnYdQHyHtDoK2K0ejuRWj80YKuZaa/"
+password = "$6$1zHXOmiSk.2j7RyK$AA550P24aXlCoYGFhwuM2WytBUHGfyzuHX.YuDFYkjKWB/D5wHs8n7qhd6bdRQDhCkKxtiAZG5.HLdiADGdBN0"
 groups = ["wheel"]
